@@ -1,6 +1,6 @@
 streamlit
 pillow
-opencv-python-headless
+opencv-contrib-python-headless
 ultralytics
 torch
 pandas
