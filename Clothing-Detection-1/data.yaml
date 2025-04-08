@@ -1,0 +1,13 @@
+train: C:/Users/Vamsi/outfit_rater/Clothing-Detection-1/train/images
+val: C:/Users/Vamsi/outfit_rater/Clothing-Detection-1/valid/images
+test: C:/Users/Vamsi/outfit_rater/Clothing-Detection-1/test/images
+
+nc: 10
+names: ['bag', 'dress', 'hat', 'jacket', 'pants', 'shirt', 'shoe', 'shorts', 'skirt', 'sunglass']
+
+roboflow:
+  workspace: clouds-5vrll
+  project: clothing-detection-scn9m-ksyyb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/clouds-5vrll/clothing-detection-scn9m-ksyyb/dataset/1

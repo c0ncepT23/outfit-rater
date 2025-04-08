@@ -1,0 +1,29 @@
+[
+  {
+    "top": "t-shirt",
+    "bottom": "jeans",
+    "shoes": "sneakers",
+    "accessories": ["watch"],
+    "color_palette": "neutral",
+    "fit": "regular",
+    "occasion": "classroom"
+  },
+  {
+    "top": "kurta",
+    "bottom": "pants",
+    "shoes": "slides",
+    "accessories": ["ring", "watch"],
+    "color_palette": "coordinated",
+    "fit": "regular",
+    "occasion": "wedding"
+  },
+  {
+    "top": "tank top",
+    "bottom": "shorts",
+    "shoes": "sneakers",
+    "accessories": [],
+    "color_palette": "bright",
+    "fit": "loose",
+    "occasion": "sports"
+  }
+]
